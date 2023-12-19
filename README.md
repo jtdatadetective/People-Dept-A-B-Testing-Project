@@ -5,7 +5,7 @@ This project was completed in a Jupyter Notebook using Python 3.  The purpose of
 and how that can be applied to solve an organizational problem.  
 
 A/B tests are very commonly performed by data analysts to test for statistical significance between two means and whether a difference occurred by chance. 
-For this project, I will be utilizing A/B testing to help the People Department of a ficticious company determine if their recruiting efforts are significantly different 
+For this project, I will be utilizing A/B testing to help the People Department of a fictitious company determine if their recruiting efforts are significantly different 
 with application process 1 vs. application process 2.
 
 Scenario: The company is having trouble recruiting for an hourly position with a tight labor market and competitive wages and they want to ensure that the current application 
